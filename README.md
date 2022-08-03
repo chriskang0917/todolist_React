@@ -1,4 +1,4 @@
-# todolist_React
+# Todolist_React
 本專案是參考 Dev Ed 頻道的內容一點一滴刻出來：https://www.youtube.com/watch?v=pCA4qpQDZD8
 
 ## 所開發的功能有
@@ -8,6 +8,9 @@
 - 能夠以完成/未完成篩選任務
 - 使用 LocalStorage 使資料能暫時存在本地
 
+# 使用工具與 React 方法
+- Create-React-App
+- React hook
 
 # Getting Started with Create React App
 
