@@ -1,3 +1,14 @@
+# todolist_React
+本專案是參考 Dev Ed 頻道的內容一點一滴刻出來：https://www.youtube.com/watch?v=pCA4qpQDZD8
+
+## 所開發的功能有
+- 能夠新增 Todo List
+- 能夠勾選完成 Task
+- 能夠刪除 Task
+- 能夠以完成/未完成篩選任務
+- 使用 LocalStorage 使資料能暫時存在本地
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +79,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# todolist_React
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
